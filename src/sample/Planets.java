@@ -4,13 +4,13 @@ class Planets {
 
     // Fields
     private String name;
-    private int mass;
+    private double mass;
     private int diameter;
     private int density;
-    private int gravity;
+    private double gravity;
 
     //constructor
-    Planets(String theName, int theMass, int theDiameter,int theDensity,int theGravity) {
+    Planets(String theName, double theMass, int theDiameter, int theDensity, double theGravity) {
         name = theName;
         mass = theMass;
         diameter = theDiameter;
