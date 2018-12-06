@@ -32,4 +32,5 @@ public class Main extends Application {
         planets[6] = new Planets("Uranus", 86.8, 51118, 1271, 8.7);
         planets[7] = new Planets("Neptune", 102, 49528, 1638, 11.0);
     }
+    // close
 }
